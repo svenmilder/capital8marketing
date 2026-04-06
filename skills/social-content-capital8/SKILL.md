@@ -162,18 +162,65 @@ Generate 3 hook options per post. Score each on: scroll-stop power, specificity,
 
 ---
 
+## Post Sign-Off (Required on Every LinkedIn Post)
+
+Every LinkedIn post must end with these two elements, in this order, after the closing question:
+
+**1. CTA line** (audience-matched — see CTA Mapping below)
+**2. Introduction line** (always the same):
+
+```
+My name is Sven Milder. Partner at SevenX Capital & Capital8. Fund-Acquire-Exit. Helping 7-8 figure founders in Asia exit for a premium.
+```
+
+This introduction line never changes. It appears at the bottom of every post, every time.
+
+---
+
 ## CTA Mapping
 
-| Post theme | Target | CTA |
-|---|---|---|
-| Exit readiness, founder dependency, deal prep | Sellers | capital8.io/dealready |
-| Valuation, buyer positioning, market dynamics | Sellers | DM "EXIT" |
-| Process methodology, Sprint, timeline | Sellers | cal.com/capital8/mandate-desk |
-| Off-market deals, deal flow, syndication | Buyers | deals@sevenx.capital |
-| Dealmaker referral, co-advise economics | Dealmakers | capital8.io (Dealmaker section) |
-| Authority, credentials, $240M+ proof | Both | No CTA (brand post) |
+Two primary CTAs. Match to audience. Never use the same CTA on consecutive posts in a batch.
 
-Never use the same CTA twice in a row across a content batch.
+### Seller CTA (default for seller-facing posts)
+```
+Comment DEALREADY and I'll show you where your business sits on the value curve.
+```
+
+### Buyer CTA (default for buyer-facing posts)
+```
+If you're allocating capital in SEA and want off-market deal flow before it hits the market, DM me "Mandate".
+```
+
+### CTA Selection Matrix
+
+| Post theme | Target | CTA to use |
+|---|---|---|
+| Exit readiness, founder dependency, deal prep | Sellers | Seller CTA (DEALREADY) |
+| Valuation, buyer positioning, process methodology | Sellers | Seller CTA (DEALREADY) |
+| APAC deal flow, market intelligence, buy-box | Buyers | Buyer CTA (Mandate) |
+| Off-market deals, syndication, Mandate Desk | Buyers | Buyer CTA (Mandate) |
+| Dealmaker referral, co-advise economics | Dealmakers | Seller CTA or no CTA |
+| Authority, credentials, $240M+ proof | Both | No CTA (brand post) — still include introduction line |
+
+### Full Sign-Off Example (Seller Post)
+
+```
+Are you sitting on an asset that needs structure around it?
+
+Comment DEALREADY and I'll show you where your business sits on the value curve.
+
+My name is Sven Milder. Partner at SevenX Capital & Capital8. Fund-Acquire-Exit. Helping 7-8 figure founders in Asia exit for a premium.
+```
+
+### Full Sign-Off Example (Buyer Post)
+
+```
+Are you building your buy-box for this cycle?
+
+If you're allocating capital in SEA and want off-market deal flow before it hits the market, DM me "Mandate".
+
+My name is Sven Milder. Partner at SevenX Capital & Capital8. Fund-Acquire-Exit. Helping 7-8 figure founders in Asia exit for a premium.
+```
 
 ---
 
